@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40143
     wikipedia: http://en.wikipedia.org/wiki/Emil_Julius_Gumbel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39667#Vier-Jahre-Politischer-Mord
 edition_note: Fünfte Auflage von Zwei Jahre Mord (13. bis 18. Tausend)
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-05-11'
